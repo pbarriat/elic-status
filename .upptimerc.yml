@@ -17,7 +17,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /elic-status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/pbarriat/elic-status/9f80c3696288d6831dd422d5e2458d0233da9bce/assets/elic-icon.png
   name: ELIC status
   introTitle: "**ELIC Status** shows all service status for [ELIC](https://www.elic.ucl.ac.be)."
   introMessage: All system status.
