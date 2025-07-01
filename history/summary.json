@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.elic.ucl.ac.be.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.09%",
+    "uptimeDay": "95.90%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.09%",
+    "uptimeYear": "99.09%",
     "time": 1467,
     "timeDay": 1507,
     "timeWeek": 1467,
     "timeMonth": 1467,
     "timeYear": 1467,
     "dailyMinutesDown": {
-      "2025-07-01": 2
+      "2025-07-01": 59
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://shiny.elic.ucl.ac.be",
     "icon": "https://icons.duckduckgo.com/ip3/shiny.elic.ucl.ac.be.ico",
     "slug": "shiny",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 906,
-    "timeDay": 609,
-    "timeWeek": 906,
-    "timeMonth": 906,
-    "timeYear": 906,
+    "status": "up",
+    "uptime": "99.12%",
+    "uptimeDay": "96.01%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.12%",
+    "uptimeYear": "99.12%",
+    "time": 881,
+    "timeDay": 646,
+    "timeWeek": 881,
+    "timeMonth": 881,
+    "timeYear": 881,
     "dailyMinutesDown": {
-      "2025-07-01": 0
+      "2025-07-01": 57
     }
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.elic.ucl.ac.be.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "49.71%",
+    "uptime": "49.27%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "49.71%",
-    "uptimeMonth": "49.71%",
-    "uptimeYear": "49.71%",
+    "uptimeWeek": "49.27%",
+    "uptimeMonth": "49.27%",
+    "uptimeYear": "49.27%",
     "time": 1019,
     "timeDay": 1307,
     "timeWeek": 1019,
     "timeMonth": 1019,
     "timeYear": 1019,
     "dailyMinutesDown": {
-      "2025-07-01": 411,
+      "2025-07-01": 468,
       "2025-06-30": 1440,
       "2025-06-29": 1386
     }
