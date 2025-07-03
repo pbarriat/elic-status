@@ -9,6 +9,8 @@ sites:
     url: https://gogs.elic.ucl.ac.be
   - name: Shiny
     url: https://shiny.elic.ucl.ac.be
+  - name: Ferdium
+    url: https://ferdium.elic.ucl.ac.be
   - name: Nextcloud
     url: https://nextcloud.elic.ucl.ac.be
 
