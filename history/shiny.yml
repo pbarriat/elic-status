@@ -1,7 +1,7 @@
 url: https://shiny.elic.ucl.ac.be
-status: down
-code: 503
-responseTime: 927
-lastUpdated: 2025-09-10T23:16:08.356Z
+status: up
+code: 200
+responseTime: 560
+lastUpdated: 2025-09-11T07:28:04.221Z
 startTime: 2025-06-26T19:33:39.510Z
 generator: Upptime <https://github.com/upptime/upptime>
