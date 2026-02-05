@@ -1,7 +1,7 @@
 url: https://gogs.elic.ucl.ac.be
-status: up
-code: 200
-responseTime: 871
-lastUpdated: 2026-02-04T23:27:12.140Z
+status: down
+code: 500
+responseTime: 879
+lastUpdated: 2026-02-05T05:58:22.746Z
 startTime: 2025-06-26T19:33:38.522Z
 generator: Upptime <https://github.com/upptime/upptime>
