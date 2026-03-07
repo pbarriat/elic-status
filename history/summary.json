@@ -6,9 +6,9 @@
     "slug": "website",
     "status": "up",
     "uptime": "98.46%",
-    "uptimeDay": "75.21%",
-    "uptimeWeek": "80.69%",
-    "uptimeMonth": "87.20%",
+    "uptimeDay": "80.34%",
+    "uptimeWeek": "80.78%",
+    "uptimeMonth": "87.18%",
     "uptimeYear": "98.46%",
     "time": 1343,
     "timeDay": 1220,
@@ -16,8 +16,7 @@
     "timeMonth": 1340,
     "timeYear": 1343,
     "dailyMinutesDown": {
-      "2026-03-07": 1,
-      "2026-03-06": 358,
+      "2026-03-06": 350,
       "2026-03-05": 210,
       "2026-03-04": 189,
       "2026-03-03": 328,
@@ -35,7 +34,8 @@
       "2026-02-19": 197,
       "2026-02-18": 523,
       "2026-02-17": 135,
-      "2026-02-16": 151
+      "2026-02-16": 151,
+      "2026-02-15": 20
     }
   },
   {
@@ -44,19 +44,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gogs.elic.ucl.ac.be.ico",
     "slug": "gogs",
     "status": "up",
-    "uptime": "98.48%",
-    "uptimeDay": "75.41%",
-    "uptimeWeek": "80.87%",
-    "uptimeMonth": "87.35%",
-    "uptimeYear": "98.48%",
+    "uptime": "98.44%",
+    "uptimeDay": "80.51%",
+    "uptimeWeek": "80.95%",
+    "uptimeMonth": "87.02%",
+    "uptimeYear": "98.44%",
     "time": 912,
     "timeDay": 846,
     "timeWeek": 845,
     "timeMonth": 898,
     "timeYear": 912,
     "dailyMinutesDown": {
-      "2026-03-07": 1,
-      "2026-03-06": 355,
+      "2026-03-06": 348,
       "2026-03-05": 209,
       "2026-03-04": 185,
       "2026-03-03": 326,
@@ -75,7 +74,7 @@
       "2026-02-18": 520,
       "2026-02-17": 135,
       "2026-02-16": 151,
-      "2026-02-15": 20
+      "2026-02-15": 172
     }
   },
   {
@@ -85,9 +84,9 @@
     "slug": "shiny",
     "status": "up",
     "uptime": "98.46%",
-    "uptimeDay": "75.61%",
-    "uptimeWeek": "81.28%",
-    "uptimeMonth": "87.20%",
+    "uptimeDay": "80.68%",
+    "uptimeWeek": "81.36%",
+    "uptimeMonth": "87.19%",
     "uptimeYear": "98.46%",
     "time": 868,
     "timeDay": 822,
@@ -95,8 +94,7 @@
     "timeMonth": 861,
     "timeYear": 868,
     "dailyMinutesDown": {
-      "2026-03-07": 1,
-      "2026-03-06": 352,
+      "2026-03-06": 345,
       "2026-03-05": 207,
       "2026-03-04": 184,
       "2026-03-03": 326,
@@ -115,7 +113,8 @@
       "2026-02-18": 516,
       "2026-02-17": 134,
       "2026-02-16": 149,
-      "2026-02-15": 170
+      "2026-02-15": 170,
+      "2026-02-14": 16
     }
   },
   {
@@ -124,19 +123,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ferdium.elic.ucl.ac.be.ico",
     "slug": "ferdium",
     "status": "up",
-    "uptime": "98.44%",
-    "uptimeDay": "75.80%",
-    "uptimeWeek": "81.45%",
-    "uptimeMonth": "87.32%",
-    "uptimeYear": "98.44%",
+    "uptime": "98.43%",
+    "uptimeDay": "80.84%",
+    "uptimeWeek": "81.53%",
+    "uptimeMonth": "87.27%",
+    "uptimeYear": "98.43%",
     "time": 773,
     "timeDay": 685,
     "timeWeek": 781,
     "timeMonth": 761,
     "timeYear": 773,
     "dailyMinutesDown": {
-      "2026-03-07": 1,
-      "2026-03-06": 349,
+      "2026-03-06": 343,
       "2026-03-05": 206,
       "2026-03-04": 180,
       "2026-03-03": 324,
@@ -156,7 +154,7 @@
       "2026-02-17": 132,
       "2026-02-16": 148,
       "2026-02-15": 170,
-      "2026-02-14": 16
+      "2026-02-14": 47
     }
   },
   {
@@ -165,19 +163,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.elic.ucl.ac.be.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "98.49%",
-    "uptimeDay": "76.00%",
-    "uptimeWeek": "81.62%",
-    "uptimeMonth": "87.43%",
-    "uptimeYear": "98.49%",
+    "uptime": "98.48%",
+    "uptimeDay": "81.00%",
+    "uptimeWeek": "81.69%",
+    "uptimeMonth": "87.38%",
+    "uptimeYear": "98.48%",
     "time": 1180,
     "timeDay": 1082,
     "timeWeek": 1373,
     "timeMonth": 1276,
     "timeYear": 1180,
     "dailyMinutesDown": {
-      "2026-03-07": 1,
-      "2026-03-06": 346,
+      "2026-03-06": 340,
       "2026-03-05": 204,
       "2026-03-04": 179,
       "2026-03-03": 324,
@@ -197,7 +194,7 @@
       "2026-02-17": 131,
       "2026-02-16": 146,
       "2026-02-15": 168,
-      "2026-02-14": 15
+      "2026-02-14": 45
     }
   }
 ]
