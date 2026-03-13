@@ -81,17 +81,17 @@
     "url": "https://shiny.elic.ucl.ac.be",
     "icon": "https://icons.duckduckgo.com/ip3/shiny.elic.ucl.ac.be.ico",
     "slug": "shiny",
-    "status": "up",
+    "status": "down",
     "uptime": "98.43%",
-    "uptimeDay": "75.39%",
+    "uptimeDay": "75.38%",
     "uptimeWeek": "75.58%",
-    "uptimeMonth": "86.56%",
+    "uptimeMonth": "86.62%",
     "uptimeYear": "98.43%",
-    "time": 858,
-    "timeDay": 713,
-    "timeWeek": 796,
-    "timeMonth": 840,
-    "timeYear": 858,
+    "time": 857,
+    "timeDay": 695,
+    "timeWeek": 792,
+    "timeMonth": 839,
+    "timeYear": 857,
     "dailyMinutesDown": {
       "2026-03-13": 204,
       "2026-03-12": 299,
@@ -112,7 +112,7 @@
       "2026-02-25": 279,
       "2026-02-24": 453,
       "2026-02-23": 209,
-      "2026-02-22": 49
+      "2026-02-22": 20
     }
   },
   {
