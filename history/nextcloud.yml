@@ -1,7 +1,7 @@
 url: https://nextcloud.elic.ucl.ac.be
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-04-08T23:06:33.671Z
+status: up
+code: 200
+responseTime: 1172
+lastUpdated: 2026-04-08T23:39:32.409Z
 startTime: 2025-06-26T19:33:40.953Z
 generator: Upptime <https://github.com/upptime/upptime>
