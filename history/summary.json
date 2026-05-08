@@ -4,19 +4,19 @@
     "url": "https://www.elic.ucl.ac.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.elic.ucl.ac.be.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "97.01%",
-    "uptimeDay": "6.80%",
-    "uptimeWeek": "50.19%",
-    "uptimeMonth": "68.97%",
+    "uptimeDay": "12.88%",
+    "uptimeWeek": "50.00%",
+    "uptimeMonth": "68.99%",
     "uptimeYear": "97.01%",
     "time": 1355,
     "timeDay": 1361,
     "timeWeek": 1350,
-    "timeMonth": 1464,
+    "timeMonth": 1468,
     "timeYear": 1355,
     "dailyMinutesDown": {
-      "2026-05-08": 866,
+      "2026-05-08": 886,
       "2026-05-07": 1440,
       "2026-05-06": 1440,
       "2026-05-05": 423,
@@ -43,7 +43,7 @@
       "2026-04-14": 397,
       "2026-04-13": 253,
       "2026-04-12": 635,
-      "2026-04-11": 342
+      "2026-04-11": 316
     }
   },
   {
@@ -51,11 +51,11 @@
     "url": "https://gogs.elic.ucl.ac.be",
     "icon": "https://icons.duckduckgo.com/ip3/gogs.elic.ucl.ac.be.ico",
     "slug": "gogs",
-    "status": "up",
+    "status": "down",
     "uptime": "96.99%",
-    "uptimeDay": "6.82%",
-    "uptimeWeek": "50.26%",
-    "uptimeMonth": "68.75%",
+    "uptimeDay": "13.23%",
+    "uptimeWeek": "50.11%",
+    "uptimeMonth": "68.78%",
     "uptimeYear": "96.99%",
     "time": 882,
     "timeDay": 786,
@@ -63,7 +63,7 @@
     "timeMonth": 930,
     "timeYear": 882,
     "dailyMinutesDown": {
-      "2026-05-08": 865,
+      "2026-05-08": 880,
       "2026-05-07": 1440,
       "2026-05-06": 1440,
       "2026-05-05": 421,
@@ -90,7 +90,7 @@
       "2026-04-14": 394,
       "2026-04-13": 251,
       "2026-04-12": 630,
-      "2026-04-11": 341
+      "2026-04-11": 315
     }
   },
   {
@@ -99,18 +99,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/shiny.elic.ucl.ac.be.ico",
     "slug": "shiny",
     "status": "down",
-    "uptime": "96.95%",
+    "uptime": "96.93%",
     "uptimeDay": "6.78%",
-    "uptimeWeek": "50.31%",
-    "uptimeMonth": "68.37%",
-    "uptimeYear": "96.95%",
+    "uptimeWeek": "49.25%",
+    "uptimeMonth": "68.13%",
+    "uptimeYear": "96.93%",
     "time": 829,
     "timeDay": 816,
     "timeWeek": 803,
     "timeMonth": 807,
     "timeYear": 829,
     "dailyMinutesDown": {
-      "2026-05-08": 867,
+      "2026-05-08": 974,
       "2026-05-07": 1440,
       "2026-05-06": 1440,
       "2026-05-05": 421,
@@ -145,19 +145,19 @@
     "url": "https://ferdium.elic.ucl.ac.be",
     "icon": "https://icons.duckduckgo.com/ip3/ferdium.elic.ucl.ac.be.ico",
     "slug": "ferdium",
-    "status": "up",
-    "uptime": "96.87%",
-    "uptimeDay": "6.84%",
-    "uptimeWeek": "49.68%",
-    "uptimeMonth": "68.13%",
-    "uptimeYear": "96.87%",
+    "status": "down",
+    "uptime": "96.89%",
+    "uptimeDay": "13.91%",
+    "uptimeWeek": "49.63%",
+    "uptimeMonth": "68.35%",
+    "uptimeYear": "96.89%",
     "time": 765,
     "timeDay": 989,
     "timeWeek": 753,
-    "timeMonth": 777,
+    "timeMonth": 775,
     "timeYear": 765,
     "dailyMinutesDown": {
-      "2026-05-08": 866,
+      "2026-05-08": 871,
       "2026-05-07": 1440,
       "2026-05-06": 1440,
       "2026-05-05": 490,
@@ -184,7 +184,7 @@
       "2026-04-14": 391,
       "2026-04-13": 249,
       "2026-04-12": 591,
-      "2026-04-11": 470
+      "2026-04-11": 368
     }
   },
   {
@@ -192,16 +192,16 @@
     "url": "https://nextcloud.elic.ucl.ac.be",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.elic.ucl.ac.be.ico",
     "slug": "nextcloud",
-    "status": "up",
-    "uptime": "96.96%",
-    "uptimeDay": "6.85%",
+    "status": "down",
+    "uptime": "96.97%",
+    "uptimeDay": "14.25%",
     "uptimeWeek": "49.74%",
-    "uptimeMonth": "68.40%",
-    "uptimeYear": "96.96%",
+    "uptimeMonth": "68.49%",
+    "uptimeYear": "96.97%",
     "time": 1220,
     "timeDay": 1949,
     "timeWeek": 1276,
-    "timeMonth": 1364,
+    "timeMonth": 1367,
     "timeYear": 1220,
     "dailyMinutesDown": {
       "2026-05-08": 866,
@@ -231,7 +231,7 @@
       "2026-04-14": 391,
       "2026-04-13": 249,
       "2026-04-12": 589,
-      "2026-04-11": 368
+      "2026-04-11": 329
     }
   }
 ]
