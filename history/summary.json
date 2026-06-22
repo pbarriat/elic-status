@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.elic.ucl.ac.be.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "94.42%",
+    "uptime": "94.41%",
     "uptimeDay": "44.62%",
-    "uptimeWeek": "56.11%",
+    "uptimeWeek": "55.73%",
     "uptimeMonth": "50.73%",
-    "uptimeYear": "94.42%",
+    "uptimeYear": "94.41%",
     "time": 1447,
     "timeDay": 1524,
     "timeWeek": 2110,
@@ -60,7 +60,7 @@
       "2026-06-19": 845,
       "2026-06-20": 1160,
       "2026-06-21": 813,
-      "2026-06-22": 109
+      "2026-06-22": 148
     }
   },
   {
@@ -69,11 +69,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/gogs.elic.ucl.ac.be.ico",
     "slug": "gogs",
     "status": "down",
-    "uptime": "94.62%",
+    "uptime": "94.61%",
     "uptimeDay": "45.63%",
-    "uptimeWeek": "58.48%",
+    "uptimeWeek": "58.10%",
     "uptimeMonth": "52.56%",
-    "uptimeYear": "94.62%",
+    "uptimeYear": "94.61%",
     "time": 934,
     "timeDay": 773,
     "timeWeek": 865,
@@ -122,7 +122,7 @@
       "2026-06-19": 836,
       "2026-06-20": 1141,
       "2026-06-21": 804,
-      "2026-06-22": 105
+      "2026-06-22": 143
     }
   },
   {
@@ -133,7 +133,7 @@
     "status": "down",
     "uptime": "91.45%",
     "uptimeDay": "46.63%",
-    "uptimeWeek": "59.57%",
+    "uptimeWeek": "59.19%",
     "uptimeMonth": "54.35%",
     "uptimeYear": "91.45%",
     "time": 846,
@@ -198,7 +198,7 @@
       "2026-06-19": 826,
       "2026-06-20": 1126,
       "2026-06-21": 789,
-      "2026-06-22": 100
+      "2026-06-22": 138
     }
   },
   {
@@ -208,8 +208,8 @@
     "slug": "ferdium",
     "status": "down",
     "uptime": "94.96%",
-    "uptimeDay": "68.13%",
-    "uptimeWeek": "65.28%",
+    "uptimeDay": "65.48%",
+    "uptimeWeek": "64.90%",
     "uptimeMonth": "58.18%",
     "uptimeYear": "94.96%",
     "time": 840,
@@ -259,7 +259,7 @@
       "2026-06-19": 708,
       "2026-06-20": 1111,
       "2026-06-21": 386,
-      "2026-06-22": 95
+      "2026-06-22": 133
     }
   },
   {
@@ -269,8 +269,8 @@
     "slug": "nextcloud",
     "status": "down",
     "uptime": "95.27%",
-    "uptimeDay": "75.36%",
-    "uptimeWeek": "67.79%",
+    "uptimeDay": "72.71%",
+    "uptimeWeek": "67.41%",
     "uptimeMonth": "61.93%",
     "uptimeYear": "95.27%",
     "time": 1317,
@@ -322,7 +322,7 @@
       "2026-06-19": 612,
       "2026-06-20": 1098,
       "2026-06-21": 371,
-      "2026-06-22": 1
+      "2026-06-22": 39
     }
   }
 ]
