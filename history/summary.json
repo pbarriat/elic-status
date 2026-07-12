@@ -4,16 +4,16 @@
     "url": "https://www.elic.ucl.ac.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.elic.ucl.ac.be.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "95.38%",
-    "uptimeDay": "74.58%",
-    "uptimeWeek": "66.18%",
+    "uptimeDay": "73.33%",
+    "uptimeWeek": "66.00%",
     "uptimeMonth": "54.19%",
-    "uptimeYear": "95.18%",
+    "uptimeYear": "95.17%",
     "time": 1515,
-    "timeDay": 6169,
-    "timeWeek": 3933,
-    "timeMonth": 2188,
+    "timeDay": 5268,
+    "timeWeek": 3839,
+    "timeMonth": 2183,
     "timeYear": 1520,
     "dailyMinutesDown": {
       "2026-06-09": 980,
@@ -51,7 +51,7 @@
       "2026-07-09": 452,
       "2026-07-10": 799,
       "2026-07-11": 507,
-      "2026-07-12": 366
+      "2026-07-12": 384
     }
   },
   {
@@ -59,16 +59,16 @@
     "url": "https://gogs.elic.ucl.ac.be",
     "icon": "https://icons.duckduckgo.com/ip3/gogs.elic.ucl.ac.be.ico",
     "slug": "gogs",
-    "status": "down",
+    "status": "up",
     "uptime": "96.09%",
-    "uptimeDay": "75.92%",
-    "uptimeWeek": "67.30%",
+    "uptimeDay": "74.67%",
+    "uptimeWeek": "67.12%",
     "uptimeMonth": "57.25%",
-    "uptimeYear": "95.92%",
+    "uptimeYear": "95.91%",
     "time": 1008,
-    "timeDay": 976,
-    "timeWeek": 2144,
-    "timeMonth": 1595,
+    "timeDay": 965,
+    "timeWeek": 2095,
+    "timeMonth": 1588,
     "timeYear": 1013,
     "dailyMinutesDown": {
       "2026-06-09": 306,
@@ -104,7 +104,7 @@
       "2026-07-09": 443,
       "2026-07-10": 786,
       "2026-07-11": 489,
-      "2026-07-12": 347
+      "2026-07-12": 365
     }
   },
   {
@@ -112,16 +112,16 @@
     "url": "https://shiny.elic.ucl.ac.be",
     "icon": "https://icons.duckduckgo.com/ip3/shiny.elic.ucl.ac.be.ico",
     "slug": "shiny",
-    "status": "down",
+    "status": "up",
     "uptime": "95.85%",
-    "uptimeDay": "77.25%",
-    "uptimeWeek": "70.03%",
+    "uptimeDay": "76.01%",
+    "uptimeWeek": "69.85%",
     "uptimeMonth": "60.06%",
-    "uptimeYear": "95.67%",
+    "uptimeYear": "95.66%",
     "time": 897,
-    "timeDay": 934,
-    "timeWeek": 1781,
-    "timeMonth": 1317,
+    "timeDay": 905,
+    "timeWeek": 1741,
+    "timeMonth": 1312,
     "timeYear": 898,
     "dailyMinutesDown": {
       "2026-06-07": 483,
@@ -159,7 +159,7 @@
       "2026-07-09": 285,
       "2026-07-10": 668,
       "2026-07-11": 470,
-      "2026-07-12": 328
+      "2026-07-12": 346
     }
   },
   {
@@ -167,16 +167,16 @@
     "url": "https://ferdium.elic.ucl.ac.be",
     "icon": "https://icons.duckduckgo.com/ip3/ferdium.elic.ucl.ac.be.ico",
     "slug": "ferdium",
-    "status": "down",
-    "uptime": "96.05%",
-    "uptimeDay": "78.59%",
-    "uptimeWeek": "72.68%",
+    "status": "up",
+    "uptime": "96.04%",
+    "uptimeDay": "77.35%",
+    "uptimeWeek": "72.51%",
     "uptimeMonth": "63.42%",
     "uptimeYear": "95.94%",
     "time": 884,
-    "timeDay": 798,
-    "timeWeek": 1783,
-    "timeMonth": 1512,
+    "timeDay": 797,
+    "timeWeek": 1740,
+    "timeMonth": 1505,
     "timeYear": 886,
     "dailyMinutesDown": {
       "2026-06-07": 552,
@@ -214,7 +214,7 @@
       "2026-07-09": 203,
       "2026-07-10": 606,
       "2026-07-11": 450,
-      "2026-07-12": 308
+      "2026-07-12": 326
     }
   },
   {
@@ -222,16 +222,16 @@
     "url": "https://nextcloud.elic.ucl.ac.be",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.elic.ucl.ac.be.ico",
     "slug": "nextcloud",
-    "status": "down",
+    "status": "up",
     "uptime": "96.04%",
-    "uptimeDay": "79.92%",
-    "uptimeWeek": "74.77%",
-    "uptimeMonth": "67.14%",
+    "uptimeDay": "78.69%",
+    "uptimeWeek": "74.60%",
+    "uptimeMonth": "67.15%",
     "uptimeYear": "95.86%",
     "time": 1369,
-    "timeDay": 1466,
-    "timeWeek": 2430,
-    "timeMonth": 2103,
+    "timeDay": 1533,
+    "timeWeek": 2401,
+    "timeMonth": 2100,
     "timeYear": 1380,
     "dailyMinutesDown": {
       "2026-06-05": 954,
@@ -272,7 +272,7 @@
       "2026-07-09": 198,
       "2026-07-10": 591,
       "2026-07-11": 430,
-      "2026-07-12": 289
+      "2026-07-12": 307
     }
   }
 ]
