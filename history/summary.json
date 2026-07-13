@@ -4,16 +4,16 @@
     "url": "https://www.elic.ucl.ac.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.elic.ucl.ac.be.ico",
     "slug": "website",
-    "status": "down",
-    "uptime": "95.91%",
-    "uptimeDay": "77.10%",
-    "uptimeWeek": "68.00%",
-    "uptimeMonth": "54.59%",
-    "uptimeYear": "95.72%",
+    "status": "up",
+    "uptime": "95.90%",
+    "uptimeDay": "72.00%",
+    "uptimeWeek": "67.35%",
+    "uptimeMonth": "54.57%",
+    "uptimeYear": "95.70%",
     "time": 1514,
-    "timeDay": 1289,
-    "timeWeek": 3701,
-    "timeMonth": 2197,
+    "timeDay": 1221,
+    "timeWeek": 3718,
+    "timeMonth": 2189,
     "timeYear": 1518,
     "dailyMinutesDown": {
       "2026-06-11": 636,
@@ -49,7 +49,7 @@
       "2026-07-10": 799,
       "2026-07-11": 507,
       "2026-07-12": 386,
-      "2026-07-13": 321
+      "2026-07-13": 402
     }
   },
   {
@@ -57,16 +57,16 @@
     "url": "https://gogs.elic.ucl.ac.be",
     "icon": "https://icons.duckduckgo.com/ip3/gogs.elic.ucl.ac.be.ico",
     "slug": "gogs",
-    "status": "down",
-    "uptime": "96.35%",
-    "uptimeDay": "83.37%",
-    "uptimeWeek": "69.70%",
-    "uptimeMonth": "57.82%",
-    "uptimeYear": "96.18%",
+    "status": "up",
+    "uptime": "96.34%",
+    "uptimeDay": "78.26%",
+    "uptimeWeek": "69.05%",
+    "uptimeMonth": "57.78%",
+    "uptimeYear": "96.17%",
     "time": 1008,
-    "timeDay": 1022,
-    "timeWeek": 2007,
-    "timeMonth": 1614,
+    "timeDay": 1001,
+    "timeWeek": 2011,
+    "timeMonth": 1607,
     "timeYear": 1013,
     "dailyMinutesDown": {
       "2026-06-11": 247,
@@ -101,7 +101,7 @@
       "2026-07-10": 786,
       "2026-07-11": 489,
       "2026-07-12": 365,
-      "2026-07-13": 232
+      "2026-07-13": 313
     }
   },
   {
@@ -109,16 +109,16 @@
     "url": "https://shiny.elic.ucl.ac.be",
     "icon": "https://icons.duckduckgo.com/ip3/shiny.elic.ucl.ac.be.ico",
     "slug": "shiny",
-    "status": "down",
-    "uptime": "96.29%",
-    "uptimeDay": "84.37%",
-    "uptimeWeek": "72.43%",
-    "uptimeMonth": "60.61%",
-    "uptimeYear": "96.11%",
-    "time": 897,
-    "timeDay": 832,
-    "timeWeek": 1790,
-    "timeMonth": 1325,
+    "status": "up",
+    "uptime": "96.27%",
+    "uptimeDay": "79.27%",
+    "uptimeWeek": "71.78%",
+    "uptimeMonth": "60.57%",
+    "uptimeYear": "96.10%",
+    "time": 896,
+    "timeDay": 822,
+    "timeWeek": 1768,
+    "timeMonth": 1319,
     "timeYear": 898,
     "dailyMinutesDown": {
       "2026-06-09": 297,
@@ -155,7 +155,7 @@
       "2026-07-10": 668,
       "2026-07-11": 470,
       "2026-07-12": 346,
-      "2026-07-13": 217
+      "2026-07-13": 298
     }
   },
   {
@@ -163,17 +163,17 @@
     "url": "https://ferdium.elic.ucl.ac.be",
     "icon": "https://icons.duckduckgo.com/ip3/ferdium.elic.ucl.ac.be.ico",
     "slug": "ferdium",
-    "status": "down",
-    "uptime": "96.48%",
-    "uptimeDay": "85.38%",
-    "uptimeWeek": "74.57%",
-    "uptimeMonth": "63.96%",
-    "uptimeYear": "96.38%",
+    "status": "up",
+    "uptime": "96.47%",
+    "uptimeDay": "80.28%",
+    "uptimeWeek": "73.92%",
+    "uptimeMonth": "63.90%",
+    "uptimeYear": "96.36%",
     "time": 884,
-    "timeDay": 907,
-    "timeWeek": 1760,
-    "timeMonth": 1528,
-    "timeYear": 886,
+    "timeDay": 849,
+    "timeWeek": 1738,
+    "timeMonth": 1519,
+    "timeYear": 885,
     "dailyMinutesDown": {
       "2026-06-09": 406,
       "2026-06-10": 956,
@@ -209,7 +209,7 @@
       "2026-07-10": 606,
       "2026-07-11": 450,
       "2026-07-12": 326,
-      "2026-07-13": 203
+      "2026-07-13": 284
     }
   },
   {
@@ -217,16 +217,16 @@
     "url": "https://nextcloud.elic.ucl.ac.be",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.elic.ucl.ac.be.ico",
     "slug": "nextcloud",
-    "status": "down",
-    "uptime": "96.23%",
-    "uptimeDay": "86.38%",
-    "uptimeWeek": "76.71%",
-    "uptimeMonth": "67.26%",
-    "uptimeYear": "96.05%",
+    "status": "up",
+    "uptime": "96.21%",
+    "uptimeDay": "81.28%",
+    "uptimeWeek": "76.06%",
+    "uptimeMonth": "67.19%",
+    "uptimeYear": "96.03%",
     "time": 1370,
-    "timeDay": 1704,
+    "timeDay": 1635,
     "timeWeek": 2414,
-    "timeMonth": 2113,
+    "timeMonth": 2107,
     "timeYear": 1382,
     "dailyMinutesDown": {
       "2026-06-06": 619,
@@ -267,7 +267,7 @@
       "2026-07-10": 591,
       "2026-07-11": 430,
       "2026-07-12": 307,
-      "2026-07-13": 190
+      "2026-07-13": 270
     }
   }
 ]
