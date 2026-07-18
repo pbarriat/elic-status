@@ -4,20 +4,19 @@
     "url": "https://www.elic.ucl.ac.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.elic.ucl.ac.be.ico",
     "slug": "website",
-    "status": "up",
-    "uptime": "96.44%",
-    "uptimeDay": "80.81%",
-    "uptimeWeek": "74.05%",
-    "uptimeMonth": "56.17%",
-    "uptimeYear": "96.24%",
+    "status": "down",
+    "uptime": "96.47%",
+    "uptimeDay": "80.31%",
+    "uptimeWeek": "73.98%",
+    "uptimeMonth": "56.15%",
+    "uptimeYear": "96.27%",
     "time": 1530,
     "timeDay": 1378,
     "timeWeek": 2695,
     "timeMonth": 2191,
     "timeYear": 1535,
     "dailyMinutesDown": {
-      "2026-06-16": 383,
-      "2026-06-15": 46,
+      "2026-06-16": 257,
       "2026-06-17": 131,
       "2026-06-18": 582,
       "2026-06-19": 845,
@@ -48,7 +47,8 @@
       "2026-07-14": 264,
       "2026-07-15": 382,
       "2026-07-16": 344,
-      "2026-07-17": 330
+      "2026-07-17": 330,
+      "2026-07-18": 7
     }
   },
   {
@@ -56,10 +56,10 @@
     "url": "https://gogs.elic.ucl.ac.be",
     "icon": "https://icons.duckduckgo.com/ip3/gogs.elic.ucl.ac.be.ico",
     "slug": "gogs",
-    "status": "up",
+    "status": "down",
     "uptime": "96.69%",
-    "uptimeDay": "81.48%",
-    "uptimeWeek": "75.95%",
+    "uptimeDay": "81.31%",
+    "uptimeWeek": "75.92%",
     "uptimeMonth": "58.88%",
     "uptimeYear": "96.50%",
     "time": 1004,
@@ -68,7 +68,7 @@
     "timeMonth": 1556,
     "timeYear": 1009,
     "dailyMinutesDown": {
-      "2026-06-16": 263,
+      "2026-06-16": 247,
       "2026-06-17": 121,
       "2026-06-18": 567,
       "2026-06-19": 836,
@@ -99,7 +99,8 @@
       "2026-07-14": 254,
       "2026-07-15": 364,
       "2026-07-16": 324,
-      "2026-07-17": 317
+      "2026-07-17": 317,
+      "2026-07-18": 3
     }
   },
   {
