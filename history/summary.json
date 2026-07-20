@@ -6,9 +6,9 @@
     "slug": "website",
     "status": "up",
     "uptime": "96.62%",
-    "uptimeDay": "68.72%",
+    "uptimeDay": "71.90%",
     "uptimeWeek": "72.71%",
-    "uptimeMonth": "57.00%",
+    "uptimeMonth": "57.10%",
     "uptimeYear": "96.41%",
     "time": 1526,
     "timeDay": 1235,
@@ -55,11 +55,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/gogs.elic.ucl.ac.be.ico",
     "slug": "gogs",
     "status": "up",
-    "uptime": "96.69%",
-    "uptimeDay": "57.81%",
-    "uptimeWeek": "73.30%",
+    "uptime": "96.68%",
+    "uptimeDay": "57.50%",
+    "uptimeWeek": "72.85%",
     "uptimeMonth": "59.45%",
-    "uptimeYear": "96.48%",
+    "uptimeYear": "96.47%",
     "time": 1003,
     "timeDay": 790,
     "timeWeek": 819,
@@ -97,7 +97,7 @@
       "2026-07-17": 317,
       "2026-07-18": 577,
       "2026-07-19": 537,
-      "2026-07-20": 72
+      "2026-07-20": 118
     }
   },
   {
@@ -107,9 +107,9 @@
     "slug": "shiny",
     "status": "up",
     "uptime": "96.84%",
-    "uptimeDay": "72.84%",
+    "uptimeDay": "75.38%",
     "uptimeWeek": "77.95%",
-    "uptimeMonth": "62.89%",
+    "uptimeMonth": "63.00%",
     "uptimeYear": "96.64%",
     "time": 893,
     "timeDay": 857,
@@ -157,9 +157,9 @@
     "icon": "https://icons.duckduckgo.com/ip3/ferdium.elic.ucl.ac.be.ico",
     "slug": "ferdium",
     "status": "up",
-    "uptime": "97.09%",
-    "uptimeDay": "69.27%",
-    "uptimeWeek": "78.30%",
+    "uptime": "97.08%",
+    "uptimeDay": "68.30%",
+    "uptimeWeek": "77.84%",
     "uptimeMonth": "65.71%",
     "uptimeYear": "96.95%",
     "time": 882,
@@ -200,7 +200,7 @@
       "2026-07-17": 287,
       "2026-07-18": 383,
       "2026-07-19": 372,
-      "2026-07-20": 71
+      "2026-07-20": 117
     }
   },
   {
@@ -209,11 +209,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.elic.ucl.ac.be.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "97.14%",
-    "uptimeDay": "74.73%",
-    "uptimeWeek": "80.26%",
+    "uptime": "97.13%",
+    "uptimeDay": "73.43%",
+    "uptimeWeek": "79.81%",
     "uptimeMonth": "69.09%",
-    "uptimeYear": "96.95%",
+    "uptimeYear": "96.94%",
     "time": 1396,
     "timeDay": 5320,
     "timeWeek": 2328,
@@ -256,7 +256,7 @@
       "2026-07-17": 273,
       "2026-07-18": 368,
       "2026-07-19": 298,
-      "2026-07-20": 66
+      "2026-07-20": 112
     }
   }
 ]
