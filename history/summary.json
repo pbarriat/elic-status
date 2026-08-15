@@ -4,19 +4,19 @@
     "url": "https://www.elic.ucl.ac.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.elic.ucl.ac.be.ico",
     "slug": "website",
-    "status": "up",
-    "uptime": "98.20%",
-    "uptimeDay": "63.58%",
-    "uptimeWeek": "57.84%",
-    "uptimeMonth": "75.50%",
-    "uptimeYear": "97.96%",
+    "status": "down",
+    "uptime": "98.23%",
+    "uptimeDay": "62.22%",
+    "uptimeWeek": "57.73%",
+    "uptimeMonth": "75.92%",
+    "uptimeYear": "97.99%",
     "time": 1509,
     "timeDay": 1334,
-    "timeWeek": 1337,
+    "timeWeek": 1345,
     "timeMonth": 1491,
     "timeYear": 1514,
     "dailyMinutesDown": {
-      "2026-07-27": 400,
+      "2026-07-27": 196,
       "2026-07-28": 549,
       "2026-07-29": 393,
       "2026-07-30": 565,
@@ -35,7 +35,7 @@
       "2026-08-12": 756,
       "2026-08-13": 545,
       "2026-08-14": 424,
-      "2026-08-15": 273
+      "2026-08-15": 293
     }
   },
   {
@@ -43,19 +43,19 @@
     "url": "https://gogs.elic.ucl.ac.be",
     "icon": "https://icons.duckduckgo.com/ip3/gogs.elic.ucl.ac.be.ico",
     "slug": "gogs",
-    "status": "up",
-    "uptime": "98.28%",
-    "uptimeDay": "68.26%",
-    "uptimeWeek": "61.82%",
-    "uptimeMonth": "76.60%",
-    "uptimeYear": "98.05%",
+    "status": "down",
+    "uptime": "98.33%",
+    "uptimeDay": "67.24%",
+    "uptimeWeek": "61.76%",
+    "uptimeMonth": "77.20%",
+    "uptimeYear": "98.10%",
     "time": 1017,
     "timeDay": 842,
-    "timeWeek": 879,
+    "timeWeek": 885,
     "timeMonth": 1083,
     "timeYear": 1024,
     "dailyMinutesDown": {
-      "2026-07-27": 583,
+      "2026-07-27": 307,
       "2026-07-28": 534,
       "2026-07-29": 378,
       "2026-07-30": 467,
@@ -74,7 +74,7 @@
       "2026-08-12": 614,
       "2026-08-13": 505,
       "2026-08-14": 396,
-      "2026-08-15": 227
+      "2026-08-15": 242
     }
   },
   {
@@ -82,15 +82,15 @@
     "url": "https://shiny.elic.ucl.ac.be",
     "icon": "https://icons.duckduckgo.com/ip3/shiny.elic.ucl.ac.be.ico",
     "slug": "shiny",
-    "status": "up",
+    "status": "down",
     "uptime": "98.17%",
-    "uptimeDay": "78.15%",
-    "uptimeWeek": "65.80%",
+    "uptimeDay": "78.19%",
+    "uptimeWeek": "65.81%",
     "uptimeMonth": "75.02%",
     "uptimeYear": "97.92%",
     "time": 886,
     "timeDay": 809,
-    "timeWeek": 828,
+    "timeWeek": 831,
     "timeMonth": 829,
     "timeYear": 889,
     "dailyMinutesDown": {
@@ -118,7 +118,7 @@
       "2026-08-12": 578,
       "2026-08-13": 432,
       "2026-08-14": 356,
-      "2026-08-15": 116
+      "2026-08-15": 115
     }
   },
   {
@@ -126,15 +126,15 @@
     "url": "https://ferdium.elic.ucl.ac.be",
     "icon": "https://icons.duckduckgo.com/ip3/ferdium.elic.ucl.ac.be.ico",
     "slug": "ferdium",
-    "status": "up",
+    "status": "down",
     "uptime": "98.20%",
-    "uptimeDay": "80.50%",
+    "uptimeDay": "80.53%",
     "uptimeWeek": "68.91%",
     "uptimeMonth": "75.87%",
     "uptimeYear": "97.99%",
     "time": 916,
     "timeDay": 785,
-    "timeWeek": 1733,
+    "timeWeek": 1757,
     "timeMonth": 1118,
     "timeYear": 919,
     "dailyMinutesDown": {
@@ -163,7 +163,7 @@
       "2026-08-12": 492,
       "2026-08-13": 372,
       "2026-08-14": 332,
-      "2026-08-15": 96
+      "2026-08-15": 95
     }
   },
   {
@@ -171,15 +171,15 @@
     "url": "https://nextcloud.elic.ucl.ac.be",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.elic.ucl.ac.be.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "98.28%",
-    "uptimeDay": "80.55%",
+    "uptimeDay": "80.59%",
     "uptimeWeek": "71.45%",
     "uptimeMonth": "76.54%",
-    "uptimeYear": "98.04%",
+    "uptimeYear": "98.05%",
     "time": 1423,
     "timeDay": 1729,
-    "timeWeek": 1658,
+    "timeWeek": 1665,
     "timeMonth": 1751,
     "timeYear": 1442,
     "dailyMinutesDown": {
@@ -208,7 +208,7 @@
       "2026-08-12": 420,
       "2026-08-13": 349,
       "2026-08-14": 308,
-      "2026-08-15": 109
+      "2026-08-15": 108
     }
   }
 ]
