@@ -4,15 +4,15 @@
     "url": "https://www.elic.ucl.ac.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.elic.ucl.ac.be.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "98.42%",
-    "uptimeDay": "73.83%",
+    "uptimeDay": "73.46%",
     "uptimeWeek": "62.20%",
-    "uptimeMonth": "78.47%",
-    "uptimeYear": "98.21%",
+    "uptimeMonth": "78.46%",
+    "uptimeYear": "98.20%",
     "time": 1507,
-    "timeDay": 1247,
-    "timeWeek": 1328,
+    "timeDay": 1261,
+    "timeWeek": 1330,
     "timeMonth": 1480,
     "timeYear": 1512,
     "dailyMinutesDown": {
@@ -33,7 +33,7 @@
       "2026-08-13": 545,
       "2026-08-14": 424,
       "2026-08-15": 398,
-      "2026-08-16": 144
+      "2026-08-16": 149
     }
   },
   {
@@ -44,7 +44,7 @@
     "status": "up",
     "uptime": "98.48%",
     "uptimeDay": "78.40%",
-    "uptimeWeek": "66.38%",
+    "uptimeWeek": "66.41%",
     "uptimeMonth": "79.21%",
     "uptimeYear": "98.27%",
     "time": 1015,
@@ -170,7 +170,7 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "98.34%",
-    "uptimeDay": "91.13%",
+    "uptimeDay": "91.50%",
     "uptimeWeek": "76.02%",
     "uptimeMonth": "77.25%",
     "uptimeYear": "98.10%",
