@@ -4,14 +4,14 @@
     "url": "https://www.elic.ucl.ac.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.elic.ucl.ac.be.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "98.76%",
-    "uptimeDay": "80.89%",
-    "uptimeWeek": "68.28%",
-    "uptimeMonth": "82.93%",
+    "uptimeDay": "80.58%",
+    "uptimeWeek": "68.24%",
+    "uptimeMonth": "82.92%",
     "uptimeYear": "98.58%",
     "time": 1505,
-    "timeDay": 1481,
+    "timeDay": 1464,
     "timeWeek": 1363,
     "timeMonth": 1368,
     "timeYear": 1511,
@@ -30,7 +30,7 @@
       "2026-08-15": 398,
       "2026-08-16": 331,
       "2026-08-17": 243,
-      "2026-08-18": 96
+      "2026-08-18": 100
     }
   },
   {
@@ -38,16 +38,16 @@
     "url": "https://gogs.elic.ucl.ac.be",
     "icon": "https://icons.duckduckgo.com/ip3/gogs.elic.ucl.ac.be.ico",
     "slug": "gogs",
-    "status": "down",
+    "status": "up",
     "uptime": "98.82%",
-    "uptimeDay": "83.22%",
-    "uptimeWeek": "72.24%",
-    "uptimeMonth": "83.86%",
+    "uptimeDay": "82.92%",
+    "uptimeWeek": "72.19%",
+    "uptimeMonth": "83.85%",
     "uptimeYear": "98.65%",
     "time": 1014,
-    "timeDay": 960,
-    "timeWeek": 891,
-    "timeMonth": 1069,
+    "timeDay": 937,
+    "timeWeek": 890,
+    "timeMonth": 1068,
     "timeYear": 1021,
     "dailyMinutesDown": {
       "2026-08-04": 864,
@@ -64,7 +64,7 @@
       "2026-08-15": 331,
       "2026-08-16": 280,
       "2026-08-17": 213,
-      "2026-08-18": 81
+      "2026-08-18": 85
     }
   },
   {
@@ -72,16 +72,16 @@
     "url": "https://shiny.elic.ucl.ac.be",
     "icon": "https://icons.duckduckgo.com/ip3/shiny.elic.ucl.ac.be.ico",
     "slug": "shiny",
-    "status": "down",
+    "status": "up",
     "uptime": "98.30%",
-    "uptimeDay": "86.45%",
-    "uptimeWeek": "77.57%",
-    "uptimeMonth": "76.64%",
+    "uptimeDay": "86.16%",
+    "uptimeWeek": "77.53%",
+    "uptimeMonth": "76.63%",
     "uptimeYear": "98.05%",
     "time": 885,
-    "timeDay": 952,
+    "timeDay": 934,
     "timeWeek": 835,
-    "timeMonth": 836,
+    "timeMonth": 835,
     "timeYear": 889,
     "dailyMinutesDown": {
       "2026-07-26": 670,
@@ -107,7 +107,7 @@
       "2026-08-15": 140,
       "2026-08-16": 160,
       "2026-08-17": 173,
-      "2026-08-18": 66
+      "2026-08-18": 70
     }
   },
   {
@@ -115,16 +115,16 @@
     "url": "https://ferdium.elic.ucl.ac.be",
     "icon": "https://icons.duckduckgo.com/ip3/ferdium.elic.ucl.ac.be.ico",
     "slug": "ferdium",
-    "status": "down",
+    "status": "up",
     "uptime": "98.34%",
-    "uptimeDay": "89.68%",
-    "uptimeWeek": "80.44%",
-    "uptimeMonth": "77.51%",
-    "uptimeYear": "98.13%",
+    "uptimeDay": "89.39%",
+    "uptimeWeek": "80.39%",
+    "uptimeMonth": "77.50%",
+    "uptimeYear": "98.12%",
     "time": 914,
-    "timeDay": 936,
-    "timeWeek": 1497,
-    "timeMonth": 1105,
+    "timeDay": 941,
+    "timeWeek": 1488,
+    "timeMonth": 1104,
     "timeYear": 917,
     "dailyMinutesDown": {
       "2026-07-25": 435,
@@ -151,7 +151,7 @@
       "2026-08-15": 120,
       "2026-08-16": 135,
       "2026-08-17": 130,
-      "2026-08-18": 52
+      "2026-08-18": 57
     }
   },
   {
@@ -159,17 +159,17 @@
     "url": "https://nextcloud.elic.ucl.ac.be",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.elic.ucl.ac.be.ico",
     "slug": "nextcloud",
-    "status": "down",
+    "status": "up",
     "uptime": "98.39%",
-    "uptimeDay": "93.01%",
-    "uptimeWeek": "82.79%",
-    "uptimeMonth": "77.91%",
+    "uptimeDay": "92.73%",
+    "uptimeWeek": "82.75%",
+    "uptimeMonth": "77.90%",
     "uptimeYear": "98.16%",
-    "time": 1427,
-    "timeDay": 1485,
-    "timeWeek": 1663,
-    "timeMonth": 1741,
-    "timeYear": 1447,
+    "time": 1428,
+    "timeDay": 1567,
+    "timeWeek": 1669,
+    "timeMonth": 1743,
+    "timeYear": 1448,
     "dailyMinutesDown": {
       "2026-07-22": 73,
       "2026-07-23": 271,
@@ -198,7 +198,7 @@
       "2026-08-15": 133,
       "2026-08-16": 100,
       "2026-08-17": 74,
-      "2026-08-18": 26
+      "2026-08-18": 30
     }
   }
 ]
