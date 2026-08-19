@@ -4,16 +4,16 @@
     "url": "https://www.elic.ucl.ac.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.elic.ucl.ac.be.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "98.95%",
-    "uptimeDay": "89.46%",
-    "uptimeWeek": "75.25%",
-    "uptimeMonth": "85.51%",
+    "uptimeDay": "89.93%",
+    "uptimeWeek": "76.01%",
+    "uptimeMonth": "85.52%",
     "uptimeYear": "98.79%",
     "time": 1503,
     "timeDay": 1244,
     "timeWeek": 1330,
-    "timeMonth": 1372,
+    "timeMonth": 1370,
     "timeYear": 1508,
     "dailyMinutesDown": {
       "2026-08-06": 308,
@@ -29,7 +29,7 @@
       "2026-08-16": 331,
       "2026-08-17": 243,
       "2026-08-18": 318,
-      "2026-08-19": 137
+      "2026-08-19": 130
     }
   },
   {
@@ -37,16 +37,16 @@
     "url": "https://gogs.elic.ucl.ac.be",
     "icon": "https://icons.duckduckgo.com/ip3/gogs.elic.ucl.ac.be.ico",
     "slug": "gogs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.01%",
-    "uptimeDay": "91.47%",
-    "uptimeWeek": "78.74%",
-    "uptimeMonth": "86.33%",
+    "uptimeDay": "91.93%",
+    "uptimeWeek": "79.46%",
+    "uptimeMonth": "86.34%",
     "uptimeYear": "98.86%",
     "time": 1012,
     "timeDay": 839,
     "timeWeek": 856,
-    "timeMonth": 1063,
+    "timeMonth": 1061,
     "timeYear": 1019,
     "dailyMinutesDown": {
       "2026-08-05": 43,
@@ -63,7 +63,7 @@
       "2026-08-16": 280,
       "2026-08-17": 213,
       "2026-08-18": 222,
-      "2026-08-19": 112
+      "2026-08-19": 105
     }
   },
   {
@@ -72,18 +72,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/shiny.elic.ucl.ac.be.ico",
     "slug": "shiny",
     "status": "up",
-    "uptime": "98.38%",
-    "uptimeDay": "95.75%",
-    "uptimeWeek": "84.50%",
-    "uptimeMonth": "77.70%",
-    "uptimeYear": "98.14%",
+    "uptime": "98.37%",
+    "uptimeDay": "96.04%",
+    "uptimeWeek": "85.14%",
+    "uptimeMonth": "77.48%",
+    "uptimeYear": "98.12%",
     "time": 884,
     "timeDay": 790,
     "timeWeek": 804,
-    "timeMonth": 834,
+    "timeMonth": 830,
     "timeYear": 888,
     "dailyMinutesDown": {
-      "2026-07-26": 45,
+      "2026-07-26": 145,
       "2026-07-27": 555,
       "2026-07-28": 431,
       "2026-07-29": 363,
@@ -107,7 +107,7 @@
       "2026-08-16": 160,
       "2026-08-17": 173,
       "2026-08-18": 168,
-      "2026-08-19": 61
+      "2026-08-19": 57
     }
   },
   {
@@ -118,13 +118,13 @@
     "status": "up",
     "uptime": "98.38%",
     "uptimeDay": "97.74%",
-    "uptimeWeek": "86.97%",
+    "uptimeWeek": "87.53%",
     "uptimeMonth": "77.96%",
     "uptimeYear": "98.16%",
     "time": 923,
     "timeDay": 827,
     "timeWeek": 1336,
-    "timeMonth": 1164,
+    "timeMonth": 1167,
     "timeYear": 927,
     "dailyMinutesDown": {
       "2026-07-25": 131,
@@ -163,7 +163,7 @@
     "status": "up",
     "uptime": "98.43%",
     "uptimeDay": "98.07%",
-    "uptimeWeek": "88.68%",
+    "uptimeWeek": "89.19%",
     "uptimeMonth": "78.31%",
     "uptimeYear": "98.19%",
     "time": 1429,
