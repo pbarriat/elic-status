@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "98.90%",
     "uptimeDay": "77.61%",
-    "uptimeWeek": "70.03%",
+    "uptimeWeek": "70.35%",
     "uptimeMonth": "84.84%",
     "uptimeYear": "98.74%",
     "time": 1504,
@@ -41,7 +41,7 @@
     "status": "up",
     "uptime": "98.94%",
     "uptimeDay": "84.21%",
-    "uptimeWeek": "74.60%",
+    "uptimeWeek": "74.92%",
     "uptimeMonth": "85.46%",
     "uptimeYear": "98.79%",
     "time": 1013,
@@ -75,9 +75,9 @@
     "slug": "shiny",
     "status": "up",
     "uptime": "98.36%",
-    "uptimeDay": "87.56%",
-    "uptimeWeek": "80.08%",
-    "uptimeMonth": "77.47%",
+    "uptimeDay": "88.31%",
+    "uptimeWeek": "80.50%",
+    "uptimeMonth": "77.40%",
     "uptimeYear": "98.12%",
     "time": 885,
     "timeDay": 921,
@@ -85,7 +85,7 @@
     "timeMonth": 837,
     "timeYear": 889,
     "dailyMinutesDown": {
-      "2026-07-26": 196,
+      "2026-07-26": 238,
       "2026-07-27": 555,
       "2026-07-28": 431,
       "2026-07-29": 363,
@@ -108,8 +108,7 @@
       "2026-08-15": 140,
       "2026-08-16": 160,
       "2026-08-17": 173,
-      "2026-08-18": 174,
-      "2026-08-19": 5
+      "2026-08-18": 168
     }
   },
   {
@@ -118,18 +117,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ferdium.elic.ucl.ac.be.ico",
     "slug": "ferdium",
     "status": "up",
-    "uptime": "98.38%",
-    "uptimeDay": "90.84%",
-    "uptimeWeek": "83.08%",
-    "uptimeMonth": "78.02%",
-    "uptimeYear": "98.17%",
+    "uptime": "98.36%",
+    "uptimeDay": "91.26%",
+    "uptimeWeek": "83.24%",
+    "uptimeMonth": "77.83%",
+    "uptimeYear": "98.15%",
     "time": 924,
     "timeDay": 2211,
-    "timeWeek": 1645,
+    "timeWeek": 1323,
     "timeMonth": 1166,
     "timeYear": 927,
     "dailyMinutesDown": {
-      "2026-07-25": 131,
+      "2026-07-25": 221,
       "2026-07-26": 641,
       "2026-07-27": 542,
       "2026-07-28": 421,
@@ -153,8 +152,7 @@
       "2026-08-15": 120,
       "2026-08-16": 135,
       "2026-08-17": 130,
-      "2026-08-18": 128,
-      "2026-08-19": 5
+      "2026-08-18": 127
     }
   },
   {
@@ -163,18 +161,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.elic.ucl.ac.be.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "98.43%",
-    "uptimeDay": "93.66%",
-    "uptimeWeek": "85.36%",
-    "uptimeMonth": "78.37%",
-    "uptimeYear": "98.20%",
+    "uptime": "98.42%",
+    "uptimeDay": "93.74%",
+    "uptimeWeek": "85.37%",
+    "uptimeMonth": "78.21%",
+    "uptimeYear": "98.18%",
     "time": 1429,
     "timeDay": 1681,
     "timeWeek": 1680,
     "timeMonth": 1742,
     "timeYear": 1449,
     "dailyMinutesDown": {
-      "2026-07-23": 77,
+      "2026-07-23": 145,
       "2026-07-24": 222,
       "2026-07-25": 287,
       "2026-07-26": 612,
@@ -200,8 +198,7 @@
       "2026-08-15": 133,
       "2026-08-16": 100,
       "2026-08-17": 74,
-      "2026-08-18": 90,
-      "2026-08-19": 1
+      "2026-08-18": 90
     }
   }
 ]
