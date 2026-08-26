@@ -4,16 +4,16 @@
     "url": "https://www.elic.ucl.ac.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.elic.ucl.ac.be.ico",
     "slug": "website",
-    "status": "down",
-    "uptime": "99.38%",
-    "uptimeDay": "71.61%",
-    "uptimeWeek": "75.07%",
-    "uptimeMonth": "91.29%",
+    "status": "up",
+    "uptime": "99.37%",
+    "uptimeDay": "69.99%",
+    "uptimeWeek": "74.84%",
+    "uptimeMonth": "91.23%",
     "uptimeYear": "99.27%",
-    "time": 1502,
-    "timeDay": 1493,
-    "timeWeek": 1467,
-    "timeMonth": 1390,
+    "time": 1501,
+    "timeDay": 1440,
+    "timeWeek": 1460,
+    "timeMonth": 1389,
     "timeYear": 1507,
     "dailyMinutesDown": {
       "2026-08-15": 335,
@@ -27,7 +27,7 @@
       "2026-08-23": 295,
       "2026-08-24": 319,
       "2026-08-25": 297,
-      "2026-08-26": 251
+      "2026-08-26": 274
     }
   },
   {
