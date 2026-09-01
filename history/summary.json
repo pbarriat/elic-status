@@ -6,10 +6,10 @@
     "slug": "website",
     "status": "down",
     "uptime": "99.04%",
-    "uptimeDay": "47.48%",
-    "uptimeWeek": "71.44%",
-    "uptimeMonth": "86.43%",
-    "uptimeYear": "98.87%",
+    "uptimeDay": "45.46%",
+    "uptimeWeek": "71.15%",
+    "uptimeMonth": "86.36%",
+    "uptimeYear": "98.86%",
     "time": 1510,
     "timeDay": 1546,
     "timeWeek": 1964,
@@ -32,7 +32,7 @@
       "2026-08-28": 500,
       "2026-08-30": 667,
       "2026-08-31": 763,
-      "2026-09-01": 20
+      "2026-09-01": 49
     }
   },
   {
@@ -42,10 +42,10 @@
     "slug": "gogs",
     "status": "down",
     "uptime": "99.12%",
-    "uptimeDay": "48.14%",
-    "uptimeWeek": "72.54%",
-    "uptimeMonth": "87.59%",
-    "uptimeYear": "98.97%",
+    "uptimeDay": "46.13%",
+    "uptimeWeek": "72.25%",
+    "uptimeMonth": "87.52%",
+    "uptimeYear": "98.96%",
     "time": 1004,
     "timeDay": 1089,
     "timeWeek": 946,
@@ -68,7 +68,7 @@
       "2026-08-28": 495,
       "2026-08-30": 653,
       "2026-08-31": 758,
-      "2026-09-01": 15
+      "2026-09-01": 44
     }
   },
   {
@@ -78,10 +78,10 @@
     "slug": "shiny",
     "status": "down",
     "uptime": "98.75%",
-    "uptimeDay": "48.80%",
-    "uptimeWeek": "74.03%",
-    "uptimeMonth": "82.33%",
-    "uptimeYear": "98.53%",
+    "uptimeDay": "46.79%",
+    "uptimeWeek": "73.74%",
+    "uptimeMonth": "82.26%",
+    "uptimeYear": "98.52%",
     "time": 890,
     "timeDay": 941,
     "timeWeek": 883,
@@ -111,7 +111,7 @@
       "2026-08-28": 490,
       "2026-08-30": 638,
       "2026-08-31": 753,
-      "2026-09-01": 10
+      "2026-09-01": 39
     }
   },
   {
@@ -121,10 +121,10 @@
     "slug": "ferdium",
     "status": "down",
     "uptime": "98.73%",
-    "uptimeDay": "49.46%",
-    "uptimeWeek": "75.10%",
-    "uptimeMonth": "82.31%",
-    "uptimeYear": "98.53%",
+    "uptimeDay": "47.46%",
+    "uptimeWeek": "74.81%",
+    "uptimeMonth": "82.24%",
+    "uptimeYear": "98.52%",
     "time": 913,
     "timeDay": 809,
     "timeWeek": 894,
@@ -156,7 +156,7 @@
       "2026-08-28": 485,
       "2026-08-30": 623,
       "2026-08-31": 748,
-      "2026-09-01": 5
+      "2026-09-01": 34
     }
   },
   {
@@ -166,10 +166,10 @@
     "slug": "nextcloud",
     "status": "down",
     "uptime": "98.55%",
-    "uptimeDay": "50.12%",
-    "uptimeWeek": "76.38%",
-    "uptimeMonth": "79.48%",
-    "uptimeYear": "98.29%",
+    "uptimeDay": "48.12%",
+    "uptimeWeek": "76.10%",
+    "uptimeMonth": "79.42%",
+    "uptimeYear": "98.28%",
     "time": 1437,
     "timeDay": 1628,
     "timeWeek": 1644,
@@ -205,7 +205,7 @@
       "2026-08-28": 480,
       "2026-08-30": 605,
       "2026-08-31": 744,
-      "2026-09-01": 1
+      "2026-09-01": 30
     }
   }
 ]
