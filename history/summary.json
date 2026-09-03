@@ -6,7 +6,7 @@
     "slug": "website",
     "status": "up",
     "uptime": "98.89%",
-    "uptimeDay": "57.81%",
+    "uptimeDay": "59.70%",
     "uptimeWeek": "66.91%",
     "uptimeMonth": "84.14%",
     "uptimeYear": "98.68%",
@@ -43,9 +43,9 @@
     "slug": "gogs",
     "status": "down",
     "uptime": "99.01%",
-    "uptimeDay": "75.95%",
-    "uptimeWeek": "70.06%",
-    "uptimeMonth": "85.89%",
+    "uptimeDay": "74.05%",
+    "uptimeWeek": "69.79%",
+    "uptimeMonth": "85.83%",
     "uptimeYear": "98.82%",
     "time": 1008,
     "timeDay": 1206,
@@ -71,7 +71,7 @@
       "2026-08-31": 758,
       "2026-09-01": 493,
       "2026-09-02": 341,
-      "2026-09-03": 26
+      "2026-09-03": 53
     }
   },
   {
@@ -169,18 +169,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.elic.ucl.ac.be.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "98.54%",
-    "uptimeDay": "86.19%",
-    "uptimeWeek": "72.88%",
-    "uptimeMonth": "79.27%",
-    "uptimeYear": "98.27%",
+    "uptime": "98.53%",
+    "uptimeDay": "86.95%",
+    "uptimeWeek": "72.99%",
+    "uptimeMonth": "79.09%",
+    "uptimeYear": "98.26%",
     "time": 1439,
     "timeDay": 2115,
     "timeWeek": 1708,
     "timeMonth": 1613,
     "timeYear": 1467,
     "dailyMinutesDown": {
-      "2026-08-03": 162,
+      "2026-08-03": 250,
       "2026-08-04": 791,
       "2026-08-05": 443,
       "2026-08-06": 328,
@@ -209,8 +209,7 @@
       "2026-08-30": 605,
       "2026-08-31": 744,
       "2026-09-01": 464,
-      "2026-09-02": 188,
-      "2026-09-03": 11
+      "2026-09-02": 188
     }
   }
 ]
