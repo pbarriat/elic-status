@@ -4,17 +4,17 @@
     "url": "https://www.elic.ucl.ac.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.elic.ucl.ac.be.ico",
     "slug": "website",
-    "status": "down",
-    "uptime": "98.86%",
-    "uptimeDay": "81.75%",
-    "uptimeWeek": "64.31%",
-    "uptimeMonth": "83.68%",
-    "uptimeYear": "98.64%",
-    "time": 1520,
-    "timeDay": 1528,
-    "timeWeek": 2264,
-    "timeMonth": 1512,
-    "timeYear": 1529,
+    "status": "up",
+    "uptime": "98.82%",
+    "uptimeDay": "67.16%",
+    "uptimeWeek": "62.22%",
+    "uptimeMonth": "83.20%",
+    "uptimeYear": "98.60%",
+    "time": 1529,
+    "timeDay": 6943,
+    "timeWeek": 2895,
+    "timeMonth": 1571,
+    "timeYear": 1538,
     "dailyMinutesDown": {
       "2026-08-16": 268,
       "2026-08-17": 243,
@@ -34,7 +34,7 @@
       "2026-09-01": 503,
       "2026-09-02": 616,
       "2026-09-03": 193,
-      "2026-09-04": 100
+      "2026-09-04": 310
     }
   },
   {
@@ -43,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/gogs.elic.ucl.ac.be.ico",
     "slug": "gogs",
     "status": "down",
-    "uptime": "98.91%",
+    "uptime": "98.87%",
     "uptimeDay": "52.05%",
-    "uptimeWeek": "62.99%",
-    "uptimeMonth": "84.39%",
-    "uptimeYear": "98.70%",
+    "uptimeWeek": "60.86%",
+    "uptimeMonth": "83.90%",
+    "uptimeYear": "98.66%",
     "time": 1008,
     "timeDay": 895,
     "timeWeek": 1366,
@@ -73,7 +73,7 @@
       "2026-09-01": 493,
       "2026-09-02": 341,
       "2026-09-03": 644,
-      "2026-09-04": 95
+      "2026-09-04": 310
     }
   },
   {
@@ -90,7 +90,7 @@
     "time": 890,
     "timeDay": 959,
     "timeWeek": 890,
-    "timeMonth": 887,
+    "timeMonth": 888,
     "timeYear": 894,
     "dailyMinutesDown": {
       "2026-08-10": 489,
@@ -134,7 +134,7 @@
     "time": 913,
     "timeDay": 799,
     "timeWeek": 969,
-    "timeMonth": 1125,
+    "timeMonth": 1126,
     "timeYear": 919,
     "dailyMinutesDown": {
       "2026-08-08": 292,
@@ -175,12 +175,12 @@
     "uptime": "98.52%",
     "uptimeDay": "86.70%",
     "uptimeWeek": "71.09%",
-    "uptimeMonth": "79.42%",
+    "uptimeMonth": "79.75%",
     "uptimeYear": "98.24%",
     "time": 1440,
     "timeDay": 2181,
     "timeWeek": 1750,
-    "timeMonth": 1622,
+    "timeMonth": 1625,
     "timeYear": 1468,
     "dailyMinutesDown": {
       "2026-08-03": 162,
