@@ -4,11 +4,11 @@
     "url": "https://www.elic.ucl.ac.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.elic.ucl.ac.be.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "98.86%",
-    "uptimeDay": "83.28%",
-    "uptimeWeek": "64.82%",
-    "uptimeMonth": "83.75%",
+    "uptimeDay": "83.36%",
+    "uptimeWeek": "64.69%",
+    "uptimeMonth": "83.77%",
     "uptimeYear": "98.65%",
     "time": 1520,
     "timeDay": 1879,
@@ -16,7 +16,7 @@
     "timeMonth": 1512,
     "timeYear": 1529,
     "dailyMinutesDown": {
-      "2026-08-16": 291,
+      "2026-08-16": 268,
       "2026-08-17": 243,
       "2026-08-18": 318,
       "2026-08-19": 165,
@@ -34,7 +34,7 @@
       "2026-09-01": 503,
       "2026-09-02": 616,
       "2026-09-03": 193,
-      "2026-09-04": 48
+      "2026-09-04": 61
     }
   },
   {
@@ -42,11 +42,11 @@
     "url": "https://gogs.elic.ucl.ac.be",
     "icon": "https://icons.duckduckgo.com/ip3/gogs.elic.ucl.ac.be.ico",
     "slug": "gogs",
-    "status": "up",
+    "status": "down",
     "uptime": "98.91%",
-    "uptimeDay": "51.97%",
-    "uptimeWeek": "63.46%",
-    "uptimeMonth": "84.47%",
+    "uptimeDay": "52.05%",
+    "uptimeWeek": "63.38%",
+    "uptimeMonth": "84.48%",
     "uptimeYear": "98.71%",
     "time": 1008,
     "timeDay": 895,
@@ -54,7 +54,7 @@
     "timeMonth": 888,
     "timeYear": 1016,
     "dailyMinutesDown": {
-      "2026-08-15": 64,
+      "2026-08-15": 48,
       "2026-08-16": 280,
       "2026-08-17": 213,
       "2026-08-18": 222,
@@ -73,7 +73,7 @@
       "2026-09-01": 493,
       "2026-09-02": 341,
       "2026-09-03": 644,
-      "2026-09-04": 48
+      "2026-09-04": 56
     }
   },
   {
@@ -83,7 +83,7 @@
     "slug": "shiny",
     "status": "up",
     "uptime": "98.74%",
-    "uptimeDay": "84.61%",
+    "uptimeDay": "84.92%",
     "uptimeWeek": "68.65%",
     "uptimeMonth": "81.96%",
     "uptimeYear": "98.50%",
@@ -175,7 +175,7 @@
     "uptime": "98.52%",
     "uptimeDay": "86.70%",
     "uptimeWeek": "71.09%",
-    "uptimeMonth": "79.26%",
+    "uptimeMonth": "79.33%",
     "uptimeYear": "98.24%",
     "time": 1440,
     "timeDay": 2097,
