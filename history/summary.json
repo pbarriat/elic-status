@@ -5,9 +5,9 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.elic.ucl.ac.be.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "98.02%",
+    "uptime": "98.01%",
     "uptimeDay": "93.67%",
-    "uptimeWeek": "82.23%",
+    "uptimeWeek": "82.09%",
     "uptimeMonth": "78.04%",
     "uptimeYear": "97.50%",
     "time": 1565,
@@ -46,7 +46,7 @@
       "2026-09-26": 11,
       "2026-09-27": 488,
       "2026-09-28": 162,
-      "2026-09-29": 20
+      "2026-09-29": 33
     }
   },
   {
@@ -57,9 +57,9 @@
     "status": "down",
     "uptime": "98.07%",
     "uptimeDay": "94.00%",
-    "uptimeWeek": "84.71%",
+    "uptimeWeek": "84.57%",
     "uptimeMonth": "78.63%",
-    "uptimeYear": "97.58%",
+    "uptimeYear": "97.57%",
     "time": 1005,
     "timeDay": 874,
     "timeWeek": 941,
@@ -97,7 +97,7 @@
       "2026-09-26": 11,
       "2026-09-27": 478,
       "2026-09-28": 157,
-      "2026-09-29": 15
+      "2026-09-29": 28
     }
   },
   {
@@ -108,9 +108,9 @@
     "status": "down",
     "uptime": "98.23%",
     "uptimeDay": "94.34%",
-    "uptimeWeek": "85.28%",
+    "uptimeWeek": "85.14%",
     "uptimeMonth": "81.37%",
-    "uptimeYear": "97.78%",
+    "uptimeYear": "97.77%",
     "time": 947,
     "timeDay": 738,
     "timeWeek": 772,
@@ -151,7 +151,7 @@
       "2026-09-26": 11,
       "2026-09-27": 468,
       "2026-09-28": 152,
-      "2026-09-29": 10
+      "2026-09-29": 24
     }
   },
   {
@@ -162,7 +162,7 @@
     "status": "down",
     "uptime": "98.17%",
     "uptimeDay": "94.67%",
-    "uptimeWeek": "85.66%",
+    "uptimeWeek": "85.53%",
     "uptimeMonth": "81.57%",
     "uptimeYear": "97.73%",
     "time": 951,
@@ -207,7 +207,7 @@
       "2026-09-26": 11,
       "2026-09-27": 458,
       "2026-09-28": 147,
-      "2026-09-29": 5
+      "2026-09-29": 19
     }
   },
   {
@@ -216,9 +216,9 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.elic.ucl.ac.be.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "98.14%",
+    "uptime": "98.13%",
     "uptimeDay": "95.01%",
-    "uptimeWeek": "86.04%",
+    "uptimeWeek": "85.91%",
     "uptimeMonth": "83.10%",
     "uptimeYear": "97.65%",
     "time": 1519,
@@ -265,7 +265,7 @@
       "2026-09-26": 11,
       "2026-09-27": 450,
       "2026-09-28": 142,
-      "2026-09-29": 1
+      "2026-09-29": 14
     }
   }
 ]
